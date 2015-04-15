@@ -57,6 +57,7 @@ PODS:
   - socket.IO (0.5.2):
     - SocketRocket (~> 0.2)
   - SocketRocket (0.2.0)
+  - SWRevealViewController (2.3.0)
   - WYPopoverController (0.3.7)
 
 DEPENDENCIES:
@@ -73,6 +74,7 @@ DEPENDENCIES:
   - SDWebImage
   - SlackTextViewController
   - socket.IO
+  - SWRevealViewController (~> 2.3)
   - WYPopoverController
 
 SPEC CHECKSUMS:
@@ -90,6 +92,7 @@ SPEC CHECKSUMS:
   SlackTextViewController: 4a1797ac2f3616dbd37435fc62da655e61399cdd
   socket.IO: eaaaea33481d8a81d8f78e331f0c72ba44758036
   SocketRocket: 54a4ac2f354c4e8c51ef5dcd4a13bc556d4f2b7c
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
   WYPopoverController: ebefa50c477bdbbd9dc992dfdffafa168c4484eb
 
 COCOAPODS: 0.36.3

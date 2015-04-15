@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0588DFCEDD87FCD4A87B1F3"
+               BlueprintIdentifier = "AFFFA9702BDB6D35EB2A756B"
                BuildableName = "libPods-ADLivelyCollectionView.a"
                BlueprintName = "Pods-ADLivelyCollectionView"
                ReferencedContainer = "container:Pods.xcodeproj">

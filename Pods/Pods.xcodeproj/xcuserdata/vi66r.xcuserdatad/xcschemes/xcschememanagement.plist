@@ -64,6 +64,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-SWRevealViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-SlackTextViewController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -92,87 +97,92 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2D366EDF5D634FE5B67B1DD8</key>
+		<key>09EECA365D53945578E58D80</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4B748EF9EC0DEC9C3D0CF47B</key>
+		<key>101BDEF26767D12F3C7299E2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>52367ACCBEA63A83B122E9D2</key>
+		<key>1EE4E5C901793112EFA9B58B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>55EEFF640AF851B181CC0E7A</key>
+		<key>265D05A0316F81BF81FD52A1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6D78B85036E40B73F88530DD</key>
+		<key>37770B2B68A0329BAF7D79C7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7627A0D3AF7B49F74E93AFEB</key>
+		<key>4285E0C784D7449EDDC13AFD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>777555F1B1A053D48C2ED337</key>
+		<key>5B4C79DB29AFAE29CB6D7136</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7980796CE94A9D75F06935DB</key>
+		<key>5D44E558FFEAFE73785AE330</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>81E8D315AEC36CC60C720094</key>
+		<key>5DD7F881D14BA2121359ABC3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>88F7E3625C571F9216B9D481</key>
+		<key>80EFC423DF399371A5D3DE7F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9F3D1FA5174E1F64D50132D6</key>
+		<key>88178FD8D74B759A61F00E51</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B6F2090CA52A2FA605227D75</key>
+		<key>971AE6A0C4E2A3BF56BD4633</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D0588DFCEDD87FCD4A87B1F3</key>
+		<key>AB85C6A0481A07FA0FC7EC69</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DAC11F2AA15CED3151FF8BEC</key>
+		<key>AFFFA9702BDB6D35EB2A756B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E9E903ED7B2394D495B4BF51</key>
+		<key>BAD348593759556175601B70</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EBDB923038647093804B03D0</key>
+		<key>BB27A566BDA3BC7C62742E7F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F25B577AA617C4E515FD310A</key>
+		<key>E32086975CCE3099E342F21C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F90EF09C5A3E99338081F308</key>
 		<dict>
 			<key>primary</key>
 			<true/>

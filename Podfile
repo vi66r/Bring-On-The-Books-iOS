@@ -12,3 +12,4 @@ pod 'SlackTextViewController'
 pod 'ISO8601DateFormatter'
 pod 'MTBBarcodeScanner'
 pod "HIPlaces"
+pod 'SWRevealViewController', '~> 2.3'
