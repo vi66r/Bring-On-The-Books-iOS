@@ -14,6 +14,8 @@
 		E4288D1C1ADF0F480043C18E /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4288D171ADF0F480043C18E /* FBSDKShareKit.framework */; };
 		E4288D1E1ADF0FD90043C18E /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4288D1D1ADF0FD90043C18E /* Social.framework */; };
 		E4288D201ADF10370043C18E /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4288D1F1ADF10370043C18E /* Accounts.framework */; };
+		E43BE1041ADF1C05008BA7CF /* ex.json in Resources */ = {isa = PBXBuildFile; fileRef = E43BE1031ADF1C05008BA7CF /* ex.json */; };
+		E43BE1071ADF1C77008BA7CF /* BBScannerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E43BE1061ADF1C77008BA7CF /* BBScannerViewController.m */; };
 		E4F773AC1ADF171400DDEEC4 /* BBISBNBackEnd.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773AB1ADF171400DDEEC4 /* BBISBNBackEnd.m */; };
 		E4F773AF1ADF172100DDEEC4 /* BBParseUserBackend.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773AE1ADF172100DDEEC4 /* BBParseUserBackend.m */; };
 		E4F773B21ADF172F00DDEEC4 /* BBUser.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773B11ADF172F00DDEEC4 /* BBUser.m */; };
@@ -74,6 +76,10 @@
 		E4288D171ADF0F480043C18E /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
 		E4288D1D1ADF0FD90043C18E /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		E4288D1F1ADF10370043C18E /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		E43BE1031ADF1C05008BA7CF /* ex.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ex.json; sourceTree = "<group>"; };
+		E43BE1051ADF1C77008BA7CF /* BBScannerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBScannerViewController.h; sourceTree = "<group>"; };
+		E43BE1061ADF1C77008BA7CF /* BBScannerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBScannerViewController.m; sourceTree = "<group>"; };
+		E43BE1081ADF1CCA008BA7CF /* BBUtilityConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBUtilityConstants.h; sourceTree = "<group>"; };
 		E4F773AA1ADF171400DDEEC4 /* BBISBNBackEnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBISBNBackEnd.h; sourceTree = "<group>"; };
 		E4F773AB1ADF171400DDEEC4 /* BBISBNBackEnd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBISBNBackEnd.m; sourceTree = "<group>"; };
 		E4F773AD1ADF172100DDEEC4 /* BBParseUserBackend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBParseUserBackend.h; sourceTree = "<group>"; };
@@ -227,6 +233,8 @@
 				E4F773B41ADF175600DDEEC4 /* BBGooglePlacesBackend.m */,
 				E4F773C31ADF17D400DDEEC4 /* BBCheckOutBackend.h */,
 				E4F773C41ADF17D400DDEEC4 /* BBCheckOutBackend.m */,
+				E43BE1081ADF1CCA008BA7CF /* BBUtilityConstants.h */,
+				E43BE1031ADF1C05008BA7CF /* ex.json */,
 			);
 			name = "Back End";
 			sourceTree = "<group>";
@@ -256,6 +264,8 @@
 				E4F773DC1ADF199200DDEEC4 /* BBHeaderView.m */,
 				E4F773DE1ADF19B600DDEEC4 /* BBLoginController.h */,
 				E4F773DF1ADF19B600DDEEC4 /* BBLoginController.m */,
+				E43BE1051ADF1C77008BA7CF /* BBScannerViewController.h */,
+				E43BE1061ADF1C77008BA7CF /* BBScannerViewController.m */,
 			);
 			name = Visuals;
 			sourceTree = "<group>";
@@ -419,6 +429,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E43BE1041ADF1C05008BA7CF /* ex.json in Resources */,
 				E4FA76071ADF0B7500784DBB /* Main.storyboard in Resources */,
 				E4FA760C1ADF0B7500784DBB /* LaunchScreen.xib in Resources */,
 				E4FA76091ADF0B7500784DBB /* Images.xcassets in Resources */,
@@ -489,6 +500,7 @@
 				E4FA76011ADF0B7500784DBB /* AppDelegate.m in Sources */,
 				E4F773C21ADF17B800DDEEC4 /* BBCheckoutController.m in Sources */,
 				E4F773DA1ADF192C00DDEEC4 /* BBProfileViewController.m in Sources */,
+				E43BE1071ADF1C77008BA7CF /* BBScannerViewController.m in Sources */,
 				E4F773AC1ADF171400DDEEC4 /* BBISBNBackEnd.m in Sources */,
 				E4F773B21ADF172F00DDEEC4 /* BBUser.m in Sources */,
 				E4F773B51ADF175600DDEEC4 /* BBGooglePlacesBackend.m in Sources */,
