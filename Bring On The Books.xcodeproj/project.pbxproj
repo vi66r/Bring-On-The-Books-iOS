@@ -30,6 +30,8 @@
 		E4F773D41ADF18E700DDEEC4 /* BBPointsView.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773D31ADF18E700DDEEC4 /* BBPointsView.m */; };
 		E4F773D71ADF191700DDEEC4 /* BBDropLocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773D61ADF191700DDEEC4 /* BBDropLocationViewController.m */; };
 		E4F773DA1ADF192C00DDEEC4 /* BBProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773D91ADF192C00DDEEC4 /* BBProfileViewController.m */; };
+		E4F773DD1ADF199200DDEEC4 /* BBHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773DC1ADF199200DDEEC4 /* BBHeaderView.m */; };
+		E4F773E01ADF19B600DDEEC4 /* BBLoginController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F773DF1ADF19B600DDEEC4 /* BBLoginController.m */; };
 		E4FA75FE1ADF0B7500784DBB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4FA75FD1ADF0B7500784DBB /* main.m */; };
 		E4FA76011ADF0B7500784DBB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4FA76001ADF0B7500784DBB /* AppDelegate.m */; };
 		E4FA76041ADF0B7500784DBB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4FA76031ADF0B7500784DBB /* ViewController.m */; };
@@ -104,6 +106,10 @@
 		E4F773D61ADF191700DDEEC4 /* BBDropLocationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBDropLocationViewController.m; sourceTree = "<group>"; };
 		E4F773D81ADF192C00DDEEC4 /* BBProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBProfileViewController.h; sourceTree = "<group>"; };
 		E4F773D91ADF192C00DDEEC4 /* BBProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBProfileViewController.m; sourceTree = "<group>"; };
+		E4F773DB1ADF199200DDEEC4 /* BBHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBHeaderView.h; sourceTree = "<group>"; };
+		E4F773DC1ADF199200DDEEC4 /* BBHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBHeaderView.m; sourceTree = "<group>"; };
+		E4F773DE1ADF19B600DDEEC4 /* BBLoginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBLoginController.h; sourceTree = "<group>"; };
+		E4F773DF1ADF19B600DDEEC4 /* BBLoginController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBLoginController.m; sourceTree = "<group>"; };
 		E4FA75F81ADF0B7500784DBB /* Bring On The Books.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bring On The Books.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4FA75FC1ADF0B7500784DBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4FA75FD1ADF0B7500784DBB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -246,6 +252,10 @@
 				E4F773D61ADF191700DDEEC4 /* BBDropLocationViewController.m */,
 				E4F773D81ADF192C00DDEEC4 /* BBProfileViewController.h */,
 				E4F773D91ADF192C00DDEEC4 /* BBProfileViewController.m */,
+				E4F773DB1ADF199200DDEEC4 /* BBHeaderView.h */,
+				E4F773DC1ADF199200DDEEC4 /* BBHeaderView.m */,
+				E4F773DE1ADF19B600DDEEC4 /* BBLoginController.h */,
+				E4F773DF1ADF19B600DDEEC4 /* BBLoginController.m */,
 			);
 			name = Visuals;
 			sourceTree = "<group>";
@@ -463,8 +473,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4F773D71ADF191700DDEEC4 /* BBDropLocationViewController.m in Sources */,
+				E4F773DD1ADF199200DDEEC4 /* BBHeaderView.m in Sources */,
 				E4F773CE1ADF185400DDEEC4 /* BBBooksTableViewCell.m in Sources */,
 				E4F773AF1ADF172100DDEEC4 /* BBParseUserBackend.m in Sources */,
+				E4F773E01ADF19B600DDEEC4 /* BBLoginController.m in Sources */,
 				E4F773D41ADF18E700DDEEC4 /* BBPointsView.m in Sources */,
 				E4F773D11ADF186000DDEEC4 /* BBBooksTableView.m in Sources */,
 				E4FA76041ADF0B7500784DBB /* ViewController.m in Sources */,
