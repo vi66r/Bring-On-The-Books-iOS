@@ -1,0 +1,1 @@
+../../../HIPlaces/Pod/Classes/HIPlaceDetailsRequest.h

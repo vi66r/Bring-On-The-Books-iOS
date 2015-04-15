@@ -1,0 +1,95 @@
+PODS:
+  - ADLivelyCollectionView (1.0.0)
+  - AFNetworking (2.5.2):
+    - AFNetworking/NSURLConnection (= 2.5.2)
+    - AFNetworking/NSURLSession (= 2.5.2)
+    - AFNetworking/Reachability (= 2.5.2)
+    - AFNetworking/Security (= 2.5.2)
+    - AFNetworking/Serialization (= 2.5.2)
+    - AFNetworking/UIKit (= 2.5.2)
+  - AFNetworking/NSURLConnection (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.2)
+  - AFNetworking/Security (2.5.2)
+  - AFNetworking/Serialization (2.5.2)
+  - AFNetworking/UIKit (2.5.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CompactConstraint (0.1.0)
+  - EGOCache (2.1.3)
+  - FormatterKit (1.8.0):
+    - FormatterKit/AddressFormatter (= 1.8.0)
+    - FormatterKit/ArrayFormatter (= 1.8.0)
+    - FormatterKit/ColorFormatter (= 1.8.0)
+    - FormatterKit/LocationFormatter (= 1.8.0)
+    - FormatterKit/NameFormatter (= 1.8.0)
+    - FormatterKit/OrdinalNumberFormatter (= 1.8.0)
+    - FormatterKit/TimeIntervalFormatter (= 1.8.0)
+    - FormatterKit/UnitOfInformationFormatter (= 1.8.0)
+    - FormatterKit/URLRequestFormatter (= 1.8.0)
+  - FormatterKit/AddressFormatter (1.8.0)
+  - FormatterKit/ArrayFormatter (1.8.0)
+  - FormatterKit/ColorFormatter (1.8.0)
+  - FormatterKit/LocationFormatter (1.8.0)
+  - FormatterKit/NameFormatter (1.8.0)
+  - FormatterKit/OrdinalNumberFormatter (1.8.0)
+  - FormatterKit/TimeIntervalFormatter (1.8.0)
+  - FormatterKit/UnitOfInformationFormatter (1.8.0)
+  - FormatterKit/URLRequestFormatter (1.8.0)
+  - HIPlaces (0.1.0):
+    - AFNetworking (~> 2.0)
+  - ISO8601DateFormatter (0.7)
+  - MTBBarcodeScanner (1.4.0)
+  - PWProgressView (0.0.3)
+  - RXPromise (0.13.1)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SlackTextViewController (1.5):
+    - SlackTextViewController/Additions (= 1.5)
+  - SlackTextViewController/Additions (1.5)
+  - socket.IO (0.5.2):
+    - SocketRocket (~> 0.2)
+  - SocketRocket (0.2.0)
+  - WYPopoverController (0.3.7)
+
+DEPENDENCIES:
+  - ADLivelyCollectionView
+  - AFNetworking
+  - CompactConstraint
+  - EGOCache
+  - FormatterKit
+  - HIPlaces
+  - ISO8601DateFormatter
+  - MTBBarcodeScanner
+  - PWProgressView
+  - RXPromise
+  - SDWebImage
+  - SlackTextViewController
+  - socket.IO
+  - WYPopoverController
+
+SPEC CHECKSUMS:
+  ADLivelyCollectionView: 1d96de6cbb87ef45e25ab9fa5ac96f43d36a0a39
+  AFNetworking: fefbce9660acb17f48ae0011292d4da0f457bf36
+  CompactConstraint: 562187c821afcc510536a3df799a16c25bea3d9b
+  EGOCache: f0295dbe041156acabd39021354ad1045ee49e72
+  FormatterKit: bddde83e054edf9d9ee14f9de3b3a5103db256f4
+  HIPlaces: fa5f10eb6f2d8ee1131c89bbc8a78fc648106d5d
+  ISO8601DateFormatter: ab926648eebe497f4d167c0fd083992f959f1274
+  MTBBarcodeScanner: 62406082c927c07037102e302006142174926ecd
+  PWProgressView: 55755848c18f993ed9022090b656084c1f310f53
+  RXPromise: 1aaff7ad7ac17c7e8dd9ea0169d13ed8df3654d2
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SlackTextViewController: 4a1797ac2f3616dbd37435fc62da655e61399cdd
+  socket.IO: eaaaea33481d8a81d8f78e331f0c72ba44758036
+  SocketRocket: 54a4ac2f354c4e8c51ef5dcd4a13bc556d4f2b7c
+  WYPopoverController: ebefa50c477bdbbd9dc992dfdffafa168c4484eb
+
+COCOAPODS: 0.36.3

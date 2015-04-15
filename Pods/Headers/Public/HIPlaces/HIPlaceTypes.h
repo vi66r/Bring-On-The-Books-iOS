@@ -1,0 +1,1 @@
+../../../HIPlaces/Pod/Classes/HIPlaceTypes.h

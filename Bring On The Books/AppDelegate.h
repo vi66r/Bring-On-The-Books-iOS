@@ -13,5 +13,18 @@
 @property (strong, nonatomic) UIWindow *window;
 
 
+//AudioToolbox.framework
+//CFNetwork.framework
+//CoreGraphics.framework
+//CoreLocation.framework
+//MobileCoreServices.framework
+//QuartzCore.framework
+//Security.framework
+//StoreKit.framework
+//SystemConfiguration.framework
+//libz.dylib
+//libsqlite3.dylib
+
+
 @end
 
